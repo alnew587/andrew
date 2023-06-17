@@ -37,12 +37,14 @@
 }
 
 .textBack {
+  margin-top: 100px;
   background-color: white;
+  border-radius: 8px;
 }
 
 p {
   font-family: 'Quicksand', cursive;
-  padding: 60px;
+  padding: 20px;
   animation-name: example;
   animation-duration: 6s;
   animation-iteration-count: infinite;
